@@ -1,1 +1,1 @@
-Introduction to Git and GitHub
+Angel Danielle Rodriguez & Christopher Seva - INF 211
